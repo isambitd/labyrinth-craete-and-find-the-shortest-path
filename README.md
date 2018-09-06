@@ -10,6 +10,7 @@ The complete API documentation is available on https://documenter.getpostman.com
 
 
 # description
-You can create a labyrith 
-set start and end point via API
-and you can get the shortest path for that start and end point
+
+ 1. You can create a labyrith 
+ 2. set start and end point via API
+ 3. you can get the shortest path for that start and end point

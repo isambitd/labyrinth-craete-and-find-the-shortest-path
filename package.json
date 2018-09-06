@@ -1,0 +1,18 @@
+{
+  "name": "labyrinth",
+  "version": "0.0.1",
+  "description": "create a and get the shortest path between a set of start and end point in a labyrinth",
+  "author": "Sambit Das - isambitd@gmail.com",
+  "scripts": {
+    "start": "npm i && node app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.7.1",
+    "express": "^4.13.4",
+    "mongodb": "^2.1.18",
+    "nodemon": "^1.17.5",
+    "winston": "^3.0.0"
+  }
+}
